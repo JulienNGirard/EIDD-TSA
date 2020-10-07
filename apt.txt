@@ -1,0 +1,10 @@
+build-essential
+gcc
+octave
+liboctave-dev
+octave-miscellaneous
+octave-control
+octave-image
+octave-signal
+gnuplot
+ghostscript
